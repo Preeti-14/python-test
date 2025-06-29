@@ -6,4 +6,8 @@ git rm filename = hear we cant restore the file
 git restore filename = to restore the file
 git push = to local to GitHub to send we use this 
 git push origin master => to send local to GitHub
+git pull origin main => it will to take a updtaed from repo to local
 
+main is = master
+dev = child
+git switch dev= this is used to change to branch
