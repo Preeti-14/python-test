@@ -6,4 +6,5 @@ git rm filename = hear we cant restore the file
 git restore filename = to restore the file
 git push = to local to GitHub to send we use this 
 git push origin master => to send local to GitHub
+this is new task
 
